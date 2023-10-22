@@ -36,7 +36,7 @@ db.session.commit()
 ```
 * Run app.py and head to http://127.0.0.1:5000/
 
-## For heroku
+## For heroku # Not active
 
 * Change database uri in config.cfg to postgres one after creating app at Heroku
 * Change secret key to your own
